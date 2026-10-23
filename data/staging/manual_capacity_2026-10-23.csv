@@ -1,0 +1,5 @@
+approve,company_name,plant_address,state,product_name,product_category,capacity_value,capacity_unit,capacity_tpa,capacity_basis,actual_output_tpa,source_id,page,raw_text,confidence
+Y,Meghmani LLP,Not stated in PLI update,,Para-aminophenol,KSM,13500,MT/year,13500,PLI committed,,S00007,,"Meghmani LLP | Para Amino Phenol | Installed Capacity (MT) 13,500",
+Y,Sadhana Nitro Chem Ltd,Not stated in PLI update,,Para-aminophenol,KSM,12000,MT/year,12000,PLI committed,,S00007,,"Sadhana Nitro Chem Ltd | Para Amino Phenol | Installed Capacity (MT) 12,000",
+Y,Farmson Pharmaceutical Gujarat Pvt Ltd,All units combined: Nandesari (Vadodara) and Jhagadia (Bharuch),Gujarat,Paracetamol,API,52000,MT/year,52000,Installed (company),,S00008,,"India's largest Paracetamol (Acetaminophen) API manufacturer with 52,000 MTPA capacity",
+Y,IOL Chemicals and Pharmaceuticals Ltd,Not stated on product page,,Paracetamol,API,10800,MT/year,10800,Installed (company),,S00009,,"Production capacity 10800 MTPA (same page FAQ says capacity raised from 1,800 to 3,600 MTPA - conflicting)",Requires validation

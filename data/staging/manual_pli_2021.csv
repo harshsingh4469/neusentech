@@ -1,0 +1,7 @@
+approve,company_name,plant_address,state,product_name,product_category,capacity_value,capacity_unit,capacity_tpa,capacity_basis,actual_output_tpa,source_id,page,raw_text
+Y,Alkimia PharmaChem Pvt Ltd,Not stated in PLI press note,,"1,1 Cyclohexane Diacetic Acid (CDA)",KSM,1500,MT/year,1500,PLI committed,,S00006,,"Alkimia PharmaChem Pvt Ltd | 1,1 Cyclohexane Diacetic Acid (CDA) | committed capacity 1500 MT"
+Y,Globela Industries Pvt Ltd,Not stated in PLI press note,,Ofloxacin,API,100,MT/year,100,PLI committed,,S00006,,Globela Industries Pvt Ltd | Ofloxacin | committed capacity 100 MT
+Y,Globela Industries Pvt Ltd,Not stated in PLI press note,,Norfloxacin,API,60,MT/year,60,PLI committed,,S00006,,Globela Industries Pvt Ltd | Norfloxacin | committed capacity 60 MT
+Y,Alta Laboratories Limited,Not stated in PLI press note,,Aspirin,API,2250,MT/year,2250,PLI committed,,S00006,,Alta Laboratories Limited | Aspirin | committed capacity 2250 MT
+Y,Aviran Pharmachem Private Limited,Not stated in PLI press note,,Artesunate,API,20,MT/year,20,PLI committed,,S00006,,Aviran Pharmachem Private Limited | Artesunate | committed capacity 20 MT
+Y,Sudarshan Pharma Industries Ltd,Not stated in PLI press note,,Vitamin B6,API,35,MT/year,35,PLI committed,,S00006,,Sudarshan Pharma Industries Ltd | Vitamin B6 | committed capacity 35 MT

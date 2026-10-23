@@ -1,0 +1,7 @@
+pandas>=2.0
+pdfplumber>=0.11
+requests>=2.31
+streamlit>=1.35
+plotly>=5.20
+openpyxl>=3.1
+reportlab>=4.0

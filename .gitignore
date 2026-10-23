@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+.DS_Store
+data/raw/_check/
+logs/*.log
+nohup.out
+data/raw/_check/
+logs/*.log
+nohup.out
+data/raw/_check/

@@ -1,0 +1,6 @@
+approve,company_name,plant_address,state,product_name,product_category,capacity_value,capacity_unit,capacity_tpa,capacity_basis,actual_output_tpa,source_id,page,raw_text
+Y,Sri Krishna Pharmaceuticals Ltd,"Plot No. B-14/1, MIDC Chincholi, Taluka Mohol, District Solapur",Maharashtra,Paracetamol,API,1000,MT/Month,12000.0,EC proposed,,S00003,4,"1 | Paracetamol | 1000(200+800) | 200TonsstartingfromPNCB- 4Stages,800Tonsstarting frompenultimatestage-2 Stages"
+Y,Sri Krishna Pharmaceuticals Ltd,"Plot No. B-14/1, MIDC Chincholi, Taluka Mohol, District Solapur",Maharashtra,Ibuprofen,API,200,MT/Month,2400.0,EC proposed,,S00003,4,2 | Ibuprofen | 200 | 
+Y,Sri Krishna Pharmaceuticals Ltd,"Plot No. B-14/1, MIDC Chincholi, Taluka Mohol, District Solapur",Maharashtra,Domperidone,API,10,MT/Month,120.0,EC proposed,,S00003,4,3 | Domperidone | 10 | 
+Y,Sri Krishna Pharmaceuticals Ltd,"Plot No. B-14/1, MIDC Chincholi, Taluka Mohol, District Solapur",Maharashtra,Docosahexaenoic Acid (DHA),API,20,MT/Month,240.0,EC proposed,,S00003,4,4 | DocosaHexaenoic Acid (DHA) | 20 | 
+Y,Sri Krishna Pharmaceuticals Ltd,"Plot No. B-14/1, MIDC Chincholi, Taluka Mohol, District Solapur",Maharashtra,Lovastatin,API,20,MT/Month,240.0,EC proposed,,S00003,4,5 | Lovastatin | 20 | 

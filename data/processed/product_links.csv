@@ -1,0 +1,34 @@
+link_id,from_product_id,to_product_id,to_product_name,relation,method,source_id,note
+L00001,PR00019,,Dobutamine,intermediate of,name rule,,API not yet in dataset
+L00002,PR00020,,Flurbiprofen,intermediate of,name rule,,API not yet in dataset
+L00003,PR00021,,Pregabalin,intermediate of,name rule,,API not yet in dataset
+L00004,PR00022,,Etoricoxib,intermediate of,name rule,,API not yet in dataset
+L00005,PR00023,,Entacapone,intermediate of,name rule,,API not yet in dataset
+L00006,PR00024,,Meloxicam,intermediate of,name rule,,API not yet in dataset
+L00007,PR00025,,Metaxalone,intermediate of,name rule,,API not yet in dataset
+L00008,PR00026,,Fenofibrate,intermediate of,name rule,,API not yet in dataset
+L00009,PR00027,,Metformin,intermediate of,name rule,,API not yet in dataset
+L00010,PR00028,,Levetiracetam,intermediate of,name rule,,API not yet in dataset
+L00011,PR00029,,Fluvoxamine,intermediate of,name rule,,API not yet in dataset
+L00012,PR00032,,Oxetacaine,intermediate of,name rule,,API not yet in dataset
+L00013,PR00033,,Quetiapine Fumarate,intermediate of,name rule,,API not yet in dataset
+L00014,PR00034,,Levodopa,intermediate of,name rule,,API not yet in dataset
+L00015,PR00035,,Carbidopa,intermediate of,name rule,,API not yet in dataset
+L00016,PR00036,,Bronopol,intermediate of,name rule,,API not yet in dataset
+L00017,PR00037,,Carnitine / Fumarate,intermediate of,name rule,,API not yet in dataset
+L00018,PR00038,,Ziprasidone,intermediate of,name rule,,API not yet in dataset
+L00019,PR00045,,Sumatriptan,intermediate of,name rule,,API not yet in dataset
+L00020,PR00046,,Modafinil,intermediate of,name rule,,API not yet in dataset
+L00021,PR00047,,Amisulpride,intermediate of,name rule,,API not yet in dataset
+L00022,PR00048,,ES Citalopram,intermediate of,name rule,,API not yet in dataset
+L00023,PR00049,,Deferasirox,intermediate of,name rule,,API not yet in dataset
+L00024,PR00050,,5-Cyano Phthalide,intermediate of,name rule,,API not yet in dataset
+L00025,PR00054,,Celecoxib,intermediate of,name rule,,API not yet in dataset
+L00026,PR00055,,Bis. Cyano. Anastrazade,intermediate of,name rule,,API not yet in dataset
+L00027,PR00062,,Fluticasone,intermediate of,name rule,,API not yet in dataset
+L00028,PR00063,,Etodolac,intermediate of,name rule,,API not yet in dataset
+L00029,PR00064,,Amiodarone,intermediate of,name rule,,API not yet in dataset
+L00030,PR00065,,Tizanidine,intermediate of,name rule,,API not yet in dataset
+L00031,PR00067,,Dothiepin,intermediate of,name rule,,API not yet in dataset
+L00032,PR00068,,Zonisamide,intermediate of,name rule,,API not yet in dataset
+L00033,PR00092,PR00001,Paracetamol,raw material of,BOM,S00005,

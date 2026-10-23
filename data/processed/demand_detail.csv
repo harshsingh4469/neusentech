@@ -1,0 +1,7 @@
+material_id,product_id,plant_id,Q,Q_basis,r,quantity_type,factor_level,factor_sources,demand_tpa,status
+RM00001,PR00001,P03484,10800.0,Installed (company),0.722,Engineering estimate,Product-level,S00005,7797.6,Calculated
+RM00002,PR00001,P03484,10800.0,Installed (company),0.675,Engineering estimate,Product-level,S00005,7290.0,Calculated
+RM00001,PR00001,P03483,52000.0,Installed (company),0.722,Engineering estimate,Product-level,S00005,37544.0,Calculated
+RM00002,PR00001,P03483,52000.0,Installed (company),0.675,Engineering estimate,Product-level,S00005,35100.0,Calculated
+RM00001,PR00001,P03474,12000.0,EC proposed,0.722,Engineering estimate,Product-level,S00005,8664.0,Calculated
+RM00002,PR00001,P03474,12000.0,EC proposed,0.675,Engineering estimate,Product-level,S00005,8100.0,Calculated

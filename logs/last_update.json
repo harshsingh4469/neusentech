@@ -1,0 +1,22 @@
+{
+  "run_at": "2026-10-23T12:19:46",
+  "checked": 8,
+  "unchanged": [
+    "Ipca Laboratories Ratlam EC 2022",
+    "Srikrishna Pharmaceuticals Solapur EC executive summary",
+    "Ramdev Chemicals Tarapur EC 2017",
+    "Farmson website capacity page",
+    "IOLCP paracetamol product page"
+  ],
+  "changed": [],
+  "skipped_robots": [
+    "DoP PLI Bulk Drugs press note 09-12-2021",
+    "DoP PLI Bulk Drugs update 30-12-2022"
+  ],
+  "failed": [
+    "CDSCO WHO-GMP certified units as on 31 Dec 2025"
+  ],
+  "not_checkable": [
+    "Paracetamol stoichiometry (engineering estimate)"
+  ]
+}

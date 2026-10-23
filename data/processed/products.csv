@@ -1,0 +1,93 @@
+product_id,product_name,category,name_key
+PR00001,Paracetamol,API,paracetamol
+PR00002,Ibuprofen,API,ibuprofen
+PR00003,Domperidone,API,domperidone
+PR00004,Docosahexaenoic Acid (DHA),API,docosahexaenoic acid dha
+PR00005,Lovastatin,API,lovastatin
+PR00006,Intermediate – A,Intermediate,intermediate a
+PR00007,2-Amino pyridine,Intermediate,2 amino pyridine
+PR00008,Sodium Valproate,API,sodium valproate
+PR00009,Salbutamol Sulphate,API,salbutamol sulphate
+PR00010,Phenyl Propanolamine HCl,API,phenyl propanolamine hcl
+PR00011,Cetrizine Di HCl,API,cetrizine di hcl
+PR00012,Primaquine Phosphate,API,primaquine phosphate
+PR00013,Benzocaine,API,benzocaine
+PR00014,Nitro Methane,Intermediate,nitro methane
+PR00015,Piroxicam,API,piroxicam
+PR00016,Enalapril Maleate,API,enalapril maleate
+PR00017,Mesalamine,API,mesalamine
+PR00018,Carbamazepine,API,carbamazepine
+PR00019,Dobutamine - INT,Intermediate,dobutamine int
+PR00020,Flurbiprofen - INT,Intermediate,flurbiprofen int
+PR00021,Pregabalin - INT,Intermediate,pregabalin int
+PR00022,Etoricoxib - INT,Intermediate,etoricoxib int
+PR00023,Entacapone - INT,Intermediate,entacapone int
+PR00024,Meloxicam - INT,Intermediate,meloxicam int
+PR00025,Metaxalone - INT,Intermediate,metaxalone int
+PR00026,Fenofibrate - INT,Intermediate,fenofibrate int
+PR00027,Metformin - INT,Intermediate,metformin int
+PR00028,Levetiracetam - INT,Intermediate,levetiracetam int
+PR00029,Fluvoxamine - INT,Intermediate,fluvoxamine int
+PR00030,Mirtazapinee,API,mirtazapinee
+PR00031,Oxcarbazepine,API,oxcarbazepine
+PR00032,Oxetacaine - INT,Intermediate,oxetacaine int
+PR00033,Quetiapine Fumarate - INT,Intermediate,quetiapine fumarate int
+PR00034,Levodopa - INT,Intermediate,levodopa int
+PR00035,Carbidopa - INT,Intermediate,carbidopa int
+PR00036,Bronopol - INT,Intermediate,bronopol int
+PR00037,Carnitine / Fumarate - INT,Intermediate,carnitine fumarate int
+PR00038,Ziprasidone - INT,Intermediate,ziprasidone int
+PR00039,Baclofen,API,baclofen
+PR00040,Irbesartan,API,irbesartan
+PR00041,Valproic Acid,API,valproic acid
+PR00042,Meta Chloropropiophenone,Intermediate,meta chloropropiophenone
+PR00043,2-Amino -5-Methyl Thiazole,Intermediate,2 amino 5 methyl thiazole
+PR00044,Methyl Benzothiazine Isopropyl Ester,Intermediate,methyl benzothiazine isopropyl ester
+PR00045,Sumatriptan - INT,Intermediate,sumatriptan int
+PR00046,Modafinil - INT,Intermediate,modafinil int
+PR00047,Amisulpride - INT,Intermediate,amisulpride int
+PR00048,ES Citalopram - INT,Intermediate,es citalopram int
+PR00049,Deferasirox - INT,Intermediate,deferasirox int
+PR00050,5-Cyano Phthalide - INT,Intermediate,5 cyano phthalide int
+PR00051,Trimethynium Floride – ET-3,API,trimethynium floride et 3
+PR00052,6-Chloro-2-oxindole,Intermediate,6 chloro 2 oxindole
+PR00053,"1,3-Benzisothiazole Piperazine",Intermediate,1 3 benzisothiazole piperazine
+PR00054,Celecoxib - INT,Intermediate,celecoxib int
+PR00055,Bis. Cyano. Anastrazade - INT,Intermediate,bis cyano anastrazade int
+PR00056,Clopidogrel Bisulphate,API,clopidogrel bisulphate
+PR00057,Tranexamic Acid,API,tranexamic acid
+PR00058,Flupirtine Maleate,API,flupirtine maleate
+PR00059,Sevelamer,API,sevelamer
+PR00060,Metoprolol,API,metoprolol
+PR00061,Pantoprazole,API,pantoprazole
+PR00062,Fluticasone - INT,Intermediate,fluticasone int
+PR00063,Etodolac - INT,Intermediate,etodolac int
+PR00064,Amiodarone - INT,Intermediate,amiodarone int
+PR00065,Tizanidine - INT,Intermediate,tizanidine int
+PR00066,Ciprofloxacin,API,ciprofloxacin
+PR00067,Dothiepin - INT,Intermediate,dothiepin int
+PR00068,Zonisamide - INT,Intermediate,zonisamide int
+PR00069,Paroxetine,API,paroxetine
+PR00070,Atorvastatin,API,atorvastatin
+PR00071,Rosuvastatin,API,rosuvastatin
+PR00072,Montelukast,API,montelukast
+PR00073,Rabeprazole,API,rabeprazole
+PR00074,Anastrozole,API,anastrozole
+PR00075,Gemcitabine hydrochloride,API,gemcitabine hydrochloride
+PR00076,Bicalutamide,API,bicalutamide
+PR00077,Budesonide,API,budesonide
+PR00078,Finasteride,API,finasteride
+PR00079,Loteprednol Danazol,API,loteprednol danazol
+PR00080,Hydrocortisone,API,hydrocortisone
+PR00081,Desoximetasone,API,desoximetasone
+PR00082,Prednisolone Acetate,API,prednisolone acetate
+PR00083,Clobetasol,API,clobetasol
+PR00084,Diflorason Granisetrox,API,diflorason granisetrox
+PR00085,Betamethasone,API,betamethasone
+PR00086,"1,1 Cyclohexane Diacetic Acid (CDA)",KSM,1 1 cyclohexane diacetic acid cda
+PR00087,Ofloxacin,API,ofloxacin
+PR00088,Norfloxacin,API,norfloxacin
+PR00089,Aspirin,API,aspirin
+PR00090,Artesunate,API,artesunate
+PR00091,Vitamin B6,API,vitamin b6
+PR00092,Para-aminophenol,KSM,para aminophenol
