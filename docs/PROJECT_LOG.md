@@ -1,4 +1,4 @@
-# NeusenTech — project log (prompts, decisions, results)
+# NuSynth Technologies — project log (prompts, decisions, results)
 
 Fill one entry every time you work on the project. This file is your proof of *how* you reached the result.
 Interviewers care more about your reasoning and checks than about the final screen.

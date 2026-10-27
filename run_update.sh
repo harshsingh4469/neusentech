@@ -1,5 +1,5 @@
 #!/bin/bash
-# NeusenTech automatic update job (Component D).
+# NuSynth Technologies automatic update job (Component D).
 #   1. discover   - look for NEW documents on watched pages (+ web search if BRAVE_API_KEY is set)
 #   2. check      - re-download every known source; changed ones are saved as new versions
 #                   and changed EC PDFs are re-extracted into data/staging/ for review
@@ -12,7 +12,7 @@ mkdir -p logs
 PY="./venv/bin/python3"
 [ -x "$PY" ] || PY="python3"
 {
-  echo "==== NeusenTech update $(date '+%Y-%m-%d %H:%M') ===="
+  echo "==== NuSynth Technologies update $(date '+%Y-%m-%d %H:%M') ===="
   echo "--- 1. discover new documents"; "$PY" src/discover.py
   echo "--- 2. check known sources for changes"; "$PY" src/download.py --check
   echo "--- 3. load approved rows"; "$PY" src/ingest.py

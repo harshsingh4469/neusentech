@@ -1,5 +1,5 @@
 """
-NeusenTech - Pharmaceutical Manufacturing & Raw-Material Intelligence (India)
+NuSynth Technologies - Pharmaceutical Manufacturing & Raw-Material Intelligence (India)
 
 Run from the project folder:   streamlit run app/streamlit_app.py
 Every number on every page is computed from data/processed/*.csv - nothing is hard-coded.
@@ -18,7 +18,7 @@ from demand import best_output, demand_detail, demand_summary  # noqa: E402
 from link_products import base_key  # noqa: E402
 from schema import ROOT, STAGING, load  # noqa: E402
 
-APP_NAME = "NeusenTech"   # change the brand name here only
+APP_NAME = "NuSynth Technologies"   # change the brand name here only
 st.set_page_config(page_title=APP_NAME, page_icon="⚗️", layout="wide")
 
 

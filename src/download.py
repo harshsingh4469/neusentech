@@ -41,7 +41,7 @@ from schema import RAW, ROOT, add_row, load, save, today  # noqa: E402
 
 SOURCE_LIST = ROOT / "sources_list.csv"
 LOGS = ROOT / "logs"
-HEADERS = {"User-Agent": "NeusenTech-research-prototype/1.0 (academic project)"}
+HEADERS = {"User-Agent": "NuSynth-research-prototype/1.0 (academic project)"}
 DELAY_SECONDS = 3   # be polite to government servers
 
 

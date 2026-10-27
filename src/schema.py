@@ -1,5 +1,5 @@
 """
-NeusenTech - shared table definitions and helpers.
+NuSynth Technologies - shared table definitions and helpers.
 
 Every table is a CSV file in data/processed/. CSV keeps the project simple:
 you can open any table in Excel / Google Sheets, and pandas reads it in one line.
