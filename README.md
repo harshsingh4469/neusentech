@@ -1,4 +1,4 @@
-# NuSynth Technologies — Pharmaceutical Manufacturing & Raw-Material Intelligence (India)
+# Pharma Raw-Material Intelligence Platform — Pharmaceutical Manufacturing & Raw-Material Intelligence (India)
 
 Maps Indian pharmaceutical manufacturers → their plants → the APIs / intermediates they make →
 documented capacities → the raw materials those products consume → aggregated raw-material demand.

@@ -1,4 +1,4 @@
-# NuSynth Technologies data dictionary
+# Pharma Raw-Material Intelligence Platform data dictionary
 
 All tables live in `data/processed/` as CSV. IDs are created by the scripts; never type them by hand.
 
